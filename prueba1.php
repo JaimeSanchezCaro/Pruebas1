@@ -8,5 +8,7 @@
 </head>
 <body>
     <?php echo "seguimos probando" ?>
+    
+    veamos si me dice algo el VSC
 </body>
 </html>
